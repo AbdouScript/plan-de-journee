@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+#tableau {
+    margin: auto;
+}
+
+.date {
+    text-align: right;
+}
+.trigramme {
+    text-align: left;
+}
+
+input {
+    resize: horizontal; width: 380px;
+}
+#zone {
+    width: auto;
+}
